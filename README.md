@@ -4,9 +4,9 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoMora&show_icons=true)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EmilianoMora)
 
