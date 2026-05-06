@@ -8,8 +8,6 @@
 
 ![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=EmilianoMora)
-
 ## Languages
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
