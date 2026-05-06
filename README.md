@@ -17,6 +17,5 @@
 
 ---
 
-## Visitor Count
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=EmilianoMora.EmilianoMora)
+#![visitors](https://visitor-badge.laobi.icu/badge?page_id=EmilianoMora.EmilianoMora)
