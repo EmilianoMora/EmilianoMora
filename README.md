@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Emiliano 👋
 
 ---
 
@@ -14,3 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+# Some of my figures
+
+<img src="images/myimage.gif" width="800">
