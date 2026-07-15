@@ -1,5 +1,6 @@
 ## Hi there, I'm Emiliano 👋
 
+Computational Biologist | Bioinformatician | Genomics Data Scientist
 ---
 
 ## GitHub Stats
