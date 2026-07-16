@@ -6,7 +6,7 @@
 <img src="images/image1.png" width="600">
 </p>
 
-<div align="center"> <h5 align="center"> Visit my personal <a href="https://emilianomora.github.io/">page</a>  </h5> </div>
+<div align="center"> <h4 align="center"> Visit my personal <a href="https://emilianomora.github.io/">page</a>!  </h4> </div>
 
 ---
 
