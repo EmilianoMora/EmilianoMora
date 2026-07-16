@@ -1,7 +1,8 @@
 ## Hi there, I'm Emiliano 👋
 
+
 <p align="center">
-  Computational Biologist | Bioinformatician | Genomics Data Scientist
+  Computational Biologist | Bioinformatician | Data Scientist
 </p>
 
 <p align="center">
@@ -12,9 +13,10 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact)
-
-![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true)
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact" alt="Top Langs" style="height: auto; max-width: 45%;">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true" alt="GitHub stats" style="height: auto; max-width: 45%;">
+</div>
 
 ## Languages
 
