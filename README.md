@@ -1,9 +1,12 @@
 ## Hi there, I'm Emiliano 👋
 
-Computational Biologist | Bioinformatician | Genomics Data Scientist
+<p align="center">
+  Computational Biologist | Bioinformatician | Genomics Data Scientist
+</p>
 
+<p align="center">
 <img src="images/bioinfo_workflow.png" width="600">
-
+</p>
 ---
 
 ## GitHub Stats
@@ -21,4 +24,6 @@ Computational Biologist | Bioinformatician | Genomics Data Scientist
 
 ## Some of my figures
 
+<p align="center">
 <img src="images/myimage.gif" width="600">
+</p>
