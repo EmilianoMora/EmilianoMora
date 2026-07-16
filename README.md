@@ -14,8 +14,8 @@
 ## GitHub Stats
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact" alt="Top Langs" style="height: auto; max-width: 40%;">
-	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true" alt="GitHub stats" style="height: auto; max-width: 40%;">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact" alt="Top Langs" style="height: auto; max-width: 20%;">
+	<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true" alt="GitHub stats" style="height: auto; max-width: 20%;">
 </div>
 
 ## Languages
