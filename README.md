@@ -1,14 +1,12 @@
-## Hi there, I'm Emiliano 👋
+# Hi there, I'm Emiliano 👋
 
-<p align="center">
-  Computational Biologist | Bioinformatician | Data Scientist
-</p>
+<div align="center"> <h3 align="center"> Computational Biologist | Bioinformatician | Data Scientist </h23> </div>
 
 <p align="center">
 <img src="images/image1.png" width="600">
 </p>
 
-#### Visit my personal [page](https://emilianomora.github.io/)!
+<div align="center"> <h5 align="center"> Visit my personal <a href="https://emilianomora.github.io/">page</a>  </h5> </div>
 
 ---
 
