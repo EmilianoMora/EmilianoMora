@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/EmilianoMora">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact" alt="Top Langs" width="45%">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmilianoMora&layout=compact&v=2" alt="Top Langs" width="45%">
   </a>
   <a href="https://github.com/EmilianoMora">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true" alt="GitHub Stats" width="45%">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EmilianoMora&show_icons=true&v=2" alt="GitHub Stats" width="45%">
   </a>
 </p>
 
