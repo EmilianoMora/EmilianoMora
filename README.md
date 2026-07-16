@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="images/bioinfo_workflow.png" width="600">
+<img src="images/image1.png" width="600">
 </p>
 
 ---
