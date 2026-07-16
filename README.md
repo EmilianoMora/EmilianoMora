@@ -2,6 +2,8 @@
 
 Computational Biologist | Bioinformatician | Genomics Data Scientist
 
+<img src="images/bioinfo_workflow.png" width="600">
+
 ---
 
 ## GitHub Stats
