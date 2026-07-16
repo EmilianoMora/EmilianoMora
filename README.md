@@ -1,6 +1,5 @@
 ## Hi there, I'm Emiliano 👋
 
-
 <p align="center">
   Computational Biologist | Bioinformatician | Data Scientist
 </p>
@@ -8,6 +7,8 @@
 <p align="center">
 <img src="images/image1.png" width="600">
 </p>
+
+#### Visit my personal [page](https://emilianomora.github.io/)!
 
 ---
 
