@@ -7,6 +7,7 @@
 <p align="center">
 <img src="images/bioinfo_workflow.png" width="600">
 </p>
+
 ---
 
 ## GitHub Stats
